@@ -1,0 +1,15 @@
+
+################################################################################################################################################
+Starting Execution:	"3 out of 4" test cases in the current suite
+Test Method:		"tests.TransacctionsTest.customerCanWithdrawl"
+################################################################################################################################################
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "UserData.json"". @21-03-2023 01:43:59.0809 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UserData.json"". @21-03-2023 01:43:59.0818 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UserData.json"". @21-03-2023 01:43:59.0819 AM
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/UserData.json". @21-03-2023 01:43:59.0823 AM
+[ReportManager] Successfully created attachment "Test Data - JSON" @21-03-2023 01:43:59.0825 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UserData.json"". @21-03-2023 01:43:59.0830 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UserData.json"". @21-03-2023 01:43:59.0831 AM
+[ReportManager] Click "Withdrawl". @21-03-2023 01:44:00.0237 AM
+[ReportManager] Type "1500" into "amount". @21-03-2023 01:44:00.0806 AM
+[ReportManager] Click "Deposit". @21-03-2023 01:44:01.0092 AM

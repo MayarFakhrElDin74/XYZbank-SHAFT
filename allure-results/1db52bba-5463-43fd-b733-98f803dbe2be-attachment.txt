@@ -1,0 +1,18 @@
+
+################################################################################################################################################
+Starting Execution:	"2 out of 4" test cases in the current suite
+Test Method:		"tests.TransacctionsTest.customerCanDeposit"
+################################################################################################################################################
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "UserData.json"". @21-03-2023 01:43:51.0389 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UserData.json"". @21-03-2023 01:43:51.0395 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UserData.json"". @21-03-2023 01:43:51.0396 AM
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/UserData.json". @21-03-2023 01:43:51.0401 AM
+[ReportManager] Successfully created attachment "Test Data - JSON" @21-03-2023 01:43:52.0262 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UserData.json"". @21-03-2023 01:43:52.0266 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UserData.json"". @21-03-2023 01:43:52.0268 AM
+[ReportManager] Click "Deposit". @21-03-2023 01:43:57.0102 AM
+[ReportManager] Type "5000" into "amount". @21-03-2023 01:43:58.0746 AM
+[ReportManager] Click "Deposit". @21-03-2023 01:43:59.0148 AM
+[ReportManager] Get text "Deposit Successful" from "By.xpath: /html/body/div/div/div[2]/div/div[4]/div/span". @21-03-2023 01:43:59.0267 AM
+[ReportManager] Assertion Passed: The Element located by "By.xpath: /html/body/div/div/div[2]/div/div[4]/div/span" text contains "Deposit Successful". @21-03-2023 01:43:59.0768 AM
+[ReportManager] Successfully created attachment "Screenshot - 1679355839593_customerCanDeposit_ValidateElementAttribute_passed" @21-03-2023 01:43:59.0775 AM

@@ -1,0 +1,8 @@
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/downloadedFiles/"". @21-03-2023 01:43:35.0184 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/target/downloadedFiles/"". @21-03-2023 01:43:35.0186 AM
+[ReportManager] Attempting to run locally on: "Windows-64 | Google chrome". @21-03-2023 01:43:35.0316 AM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @21-03-2023 01:43:35.0325 AM
+[ReportManager] Successfully Opened Google chrome. @21-03-2023 01:43:42.0954 AM
+[ReportManager] Target URL: "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login" @21-03-2023 01:43:42.0972 AM
+[ReportManager] Initial URL: "data:," @21-03-2023 01:43:43.0027 AM
+[ReportManager] Navigate to url "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login". @21-03-2023 01:43:45.0541 AM

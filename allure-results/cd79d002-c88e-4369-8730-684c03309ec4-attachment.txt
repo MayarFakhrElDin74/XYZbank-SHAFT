@@ -1,0 +1,11 @@
+
+################################################################################################################################################
+Starting Execution:	"1 out of 4" test cases in the current suite
+Test Method:		"tests.TransacctionsTest.customerCanLogin"
+################################################################################################################################################
+[ReportManager] Click "Customer Login". @21-03-2023 01:43:46.0783 AM
+[ReportManager] Select "Harry Potter" from "By.xpath: //*[@id="userSelect"]". @21-03-2023 01:43:47.0692 AM
+[ReportManager] Click "Login". @21-03-2023 01:43:48.0189 AM
+[ReportManager] Get text "Welcome Harry Potter !!" from "By.xpath: /html/body/div/div/div[2]/div/div[1]/strong". @21-03-2023 01:43:48.0747 AM
+[ReportManager] Assertion Passed: The Element located by "By.xpath: /html/body/div/div/div[2]/div/div[1]/strong" text contains "Welcome". @21-03-2023 01:43:49.0982 AM
+[ReportManager] Successfully created attachment "Screenshot - 1679355829586_customerCanLogin_ValidateElementAttribute_passed" @21-03-2023 01:43:50.0019 AM

@@ -1,0 +1,15 @@
+
+################################################################################################################################################
+Starting Execution:	"4 out of 4" test cases in the current suite
+Test Method:		"tests.TransacctionsTest.customerCanCheckHisTransacctions"
+################################################################################################################################################
+[ReportManager] Click "Transactions". @21-03-2023 01:44:01.0460 AM
+[ReportManager] Click "Back". @21-03-2023 01:44:02.0244 AM
+[ReportManager] Click "Transactions". @21-03-2023 01:44:02.0660 AM
+[ReportManager] Get text "5000" from "5000". @21-03-2023 01:44:02.0761 AM
+[ReportManager] Assertion Passed: The Element located by "By.xpath: //*[@id="anchor0"]/td[2]" text is equal to "5000". @21-03-2023 01:44:03.0086 AM
+[ReportManager] Successfully created attachment "Screenshot - 1679355843011_customerCanCheckHisTransacctions_ValidateElementAttribute_passed" @21-03-2023 01:44:03.0089 AM
+[ReportManager] Get text "1500" from "1500". @21-03-2023 01:44:03.0185 AM
+[ReportManager] Assertion Passed: The Element located by "By.xpath: //*[@id="anchor1"]/td[2]" text is equal to "1500". @21-03-2023 01:44:03.0512 AM
+[ReportManager] Successfully created attachment "Screenshot - 1679355843428_customerCanCheckHisTransacctions_ValidateElementAttribute_passed" @21-03-2023 01:44:03.0515 AM
+[ReportManager] Click "Reset". @21-03-2023 01:44:03.0891 AM
